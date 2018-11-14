@@ -1,10 +1,10 @@
-### Sales Engineer Technical Evaluation
+## Sales Engineer Technical Evaluation
 
 **Prepared by:** Jesse Williams
 
 **Date:** 19 November 2018
 
-#### Environment Setup
+### Environment Setup
 
 Summary:
 
@@ -14,6 +14,6 @@ Summary:
 * Leverage markdown to format answers.md 
 * Docker for Linux on Windows Server 2016 virtual machine
 
-#### Creative Usage for Datadog
+### Creative Usage for Datadog
 
 
